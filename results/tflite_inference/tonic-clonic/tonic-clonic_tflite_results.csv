@@ -1,0 +1,2 @@
+,seizure_type,accuracy,sensitivity,specificity,precision,roc_auc,gmean
+0,tonic-clonic,84.1,72.33,89.26,74.68,80.35,92.14

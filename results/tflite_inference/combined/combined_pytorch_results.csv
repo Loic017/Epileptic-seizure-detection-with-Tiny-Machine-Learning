@@ -1,0 +1,5 @@
+,Seizure Type,Accuracy,Sensitivity,Specificity,Precision,G-Mean,TP / FN / TN / FP
+0,background,90.65,95.385,71.111,93.163,82.358,1240 / 60 / 224 / 91
+1,absence,99.505,90.0,99.624,75.0,94.69,18 / 2 / 1589 / 6
+2,tonic-clonic,93.251,61.006,96.772,67.361,76.836,97 / 62 / 1409 / 47
+3,general,95.542,66.176,98.242,77.586,80.631,90 / 46 / 1453 / 26

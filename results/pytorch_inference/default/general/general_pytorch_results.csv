@@ -1,0 +1,2 @@
+,seizure_type,accuracy,sensitivity,specificity,precision,roc_auc,gmean,tp / fn /tn / fp
+0,general,90.449,72.059,96.734,88.288,92.832,83.49,98 / 38 / 385 / 13

@@ -1,0 +1,2 @@
+,seizure_type,accuracy,sensitivity,specificity,precision,roc_auc,gmean
+0,general,89.7,72.06,95.73,85.22,83.05,90.41
