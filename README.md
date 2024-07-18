@@ -2,13 +2,43 @@
 
 Epileptic seizure detection with Tiny Machine Learning: a novel embedded algorithm that can detect three types of common seizures (absence, tonic-clonic, generalised non-specific) directly on a wearable device by employing a Tiny Machine Learning framework.
 
+## Links
+
+### View further information about this project or other projects on my website or on my hashnode:
+- https://blog.lorentel.com/tinyml-seizure-detection
+- https://lorentel.com
+
+### View the final report:
+- https://drive.google.com/file/d/1W1lrBvBA_GrSyujQJyJSLgKLstS-cuaG/view?usp=sharing
+
 ## Acknowledgements
 
 This project was supervised by Nhat Pham.
 
-## Publication
+## Publications
 
-The preliminary results of this project have been submitted to the MobiUK 2024 symposium.
+1. The preliminary results of this study was accepted into the 2024 MobiUK Wearable and Ubiquitous Systems Research Symposium and was presented:
+
+```
+Epileptic seizure detection with Tiny Machine Learning
+Loic Lorente Lemoine, Nhat Pham, MobiUK 2024 - Sixth UK Mobile, Wearable and Ubiquitous Systems Research Symposium.
+```
+
+## Awards
+
+1. A short poster featuring the results of the study was submitted to a Cardiff University and Vietnam National University Student Poster Competition on “AI, Smart Healthcare, and IoT” and won first prize:
+
+```
+First Prize, Student Poster Competition on “AI, Smart Healthcare, and IoT”
+Cardiff University and Vietnam National University- Ho Chi Minh University of Technology
+```
+
+2. I was presented with the "Best Final Year Project" award at my graduation:
+
+```
+Best Final Year Project, BSc Computer Science and Variants”
+Cardiff University
+```
 
 # Overview
 
@@ -18,7 +48,8 @@ The original raw data is not included within this repository. The handling of EE
 
 # Report and Results
 
-A report was written to document this project as part of the dissertation. The report _will be_ available soon. This report highlights the complete development process of this study, including the motivation, aims and objectives, study background, methodology, implementation and results.
+A report was written to document this project as part of the dissertation. This report highlights the complete development process of this study, including the motivation, aims and objectives, study background, methodology, implementation and results.
+https://drive.google.com/file/d/1W1lrBvBA_GrSyujQJyJSLgKLstS-cuaG/view?usp=sharing
 
 Model results and demonstration video(s) _will be_ available soon.
 
